@@ -69,12 +69,12 @@ namespace EternalAudioExtractor
         /// <summary>
         /// Ww2Ogg utility executable file name
         /// </summary>
-        public const string Ww2OggExeFileName = "ww2ogg.exe";
+        public const string Ww2OggExeFileName = "ww2ogg";
 
         /// <summary>
         /// Revorb utility executable file name
         /// </summary>
-        public const string RevorbExeFileName = "revorb.exe";
+        public const string RevorbExeFileName = "revorb";
 
         /// <summary>
         /// Relative path to where the utilities are located
